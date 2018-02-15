@@ -1,0 +1,15 @@
+{
+  "name": "mmm-tdh",
+  "version": "1.0.0",
+  "main": "MMM-TDH.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cowboysdude",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
